@@ -1,0 +1,2 @@
+export const AUTH_SERVICE = 'AUTH_SERVICE';
+export const BCRYPT_SERVICE = 'BCRYPT_SERVICE';
